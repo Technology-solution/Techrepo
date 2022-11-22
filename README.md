@@ -1,2 +1,2 @@
 # Techrepo
-allgood
+ok  good
