@@ -1,2 +1,2 @@
 # Techrepo
-changing to vgood
+the data will be pushed early
